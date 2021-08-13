@@ -16,6 +16,7 @@ public class TestController {
 
     public TestController() {
         this.testModel = new TestModel();
+        this.testModel = new TestModel();
         List<String> strings = new ArrayList<>();
         testModel.setName("omid");
         testModel.setStrings(strings);
