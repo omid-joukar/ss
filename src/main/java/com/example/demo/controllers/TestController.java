@@ -13,7 +13,7 @@ import java.util.List;
 
 public class TestController {
     private TestModel testModel;
-    private TestModel testModel;
+
 
 
     public TestController() {
